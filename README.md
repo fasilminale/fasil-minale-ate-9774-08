@@ -1,1 +1,2 @@
-# fasil-minlae-ate-9774-08
+# python-design-pattern
+simple python implementation of MVC and client and server arctecture
