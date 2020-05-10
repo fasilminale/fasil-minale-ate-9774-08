@@ -15,12 +15,3 @@ Waiting for connection . . .
 $python3 client.py
 
 'Fri Mar 23 21:53:50 2018 have a nice day'
-
-
-
-
-
-Author
-
-fasil minale
-ID: ate/9774/08
